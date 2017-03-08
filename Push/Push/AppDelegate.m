@@ -36,6 +36,7 @@ NSString *const DEVICE_TOKEN_KEY = @"PNDeviceTokenKey";
     [[UIApplication sharedApplication] registerForRemoteNotifications];
     
     return YES;
+    //Testing
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
